@@ -1,2 +1,2 @@
-# super-cool-website-of-mine
-A website that I'm going to make with my skills in web development
+# A website of mine
+I'm making this website as a testament to my skills in web development, namely HTML, CSS, and JavaScript.
